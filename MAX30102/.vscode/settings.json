@@ -1,0 +1,17 @@
+{
+  "idf.portWin": "COM8",
+  "idf.openOcdConfigs": [
+    "board/esp32c3-builtin.cfg"
+  ],
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32c3"
+  },
+  "clangd.path": "C:\\Users\\Dell\\.espressif\\tools\\esp-clang\\esp-19.1.2_20250312\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=d:\\Code_ESP-IDF\\PPG1\\PPG_sensor\\build"
+  ],
+  "idf.flashType": "UART",
+  "idf.currentSetup": "C:\\Users\\Dell\\esp\\v5.5.1\\esp-idf"
+}

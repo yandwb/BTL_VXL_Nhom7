@@ -1,0 +1,2 @@
+source D:/Code_ESP-IDF/PPG1/PPG_sensor/build/bootloader/gdbinit/symbols
+source D:/Code_ESP-IDF/PPG1/PPG_sensor/build/bootloader/gdbinit/connect
